@@ -71,39 +71,21 @@ layout: two-cols
   <div class="flex items-center mb-6">
     <div class="w-2 h-8 bg-purple-500 rounded mr-4"></div>
     <span class="text-2xl font-bold text-purple-600">3.</span>
-    <span class="text-2xl ml-2">推荐系统实现</span>
-    <div class="ml-8 text-lg text-gray-600">
-      <div class="flex items-center mt-2">
-        <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>
-        推荐算法流程
-      </div>
-      <div class="flex items-center mt-2">
-        <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>
-        算法代码实现
-      </div>
-      <div class="flex items-center mt-2">
-        <span class="w-1.5 h-1.5 bg-purple-400 rounded-full mr-2"></span>
-        关键模块功能
-      </div>
-    </div>
+    <span class="text-2xl ml-2">系统功能介绍</span>
   </div>
 
   <div class="flex items-center mb-6">
     <div class="w-2 h-8 bg-orange-500 rounded mr-4"></div>
     <span class="text-2xl font-bold text-orange-600">4.</span>
-    <span class="text-2xl ml-2">系统测试与性能</span>
+    <span class="text-2xl ml-2">推荐系统实现</span>
     <div class="ml-8 text-lg text-gray-600">
       <div class="flex items-center mt-2">
         <span class="w-1.5 h-1.5 bg-orange-400 rounded-full mr-2"></span>
-        接口性能测试
+        推荐算法流程
       </div>
       <div class="flex items-center mt-2">
         <span class="w-1.5 h-1.5 bg-orange-400 rounded-full mr-2"></span>
-        并发测试分析
-      </div>
-      <div class="flex items-center mt-2">
-        <span class="w-1.5 h-1.5 bg-orange-400 rounded-full mr-2"></span>
-        测试结果总结
+        算法代码实现
       </div>
     </div>
   </div>
@@ -111,15 +93,35 @@ layout: two-cols
   <div class="flex items-center mb-6">
     <div class="w-2 h-8 bg-red-500 rounded mr-4"></div>
     <span class="text-2xl font-bold text-red-600">5.</span>
-    <span class="text-2xl ml-2">项目总结与展望</span>
+    <span class="text-2xl ml-2">系统部署与测试</span>
     <div class="ml-8 text-lg text-gray-600">
       <div class="flex items-center mt-2">
         <span class="w-1.5 h-1.5 bg-red-400 rounded-full mr-2"></span>
-        项目成果总结
+        部署架构
       </div>
       <div class="flex items-center mt-2">
         <span class="w-1.5 h-1.5 bg-red-400 rounded-full mr-2"></span>
-        未来优化方向
+        性能测试结果
+      </div>
+      <div class="flex items-center mt-2">
+        <span class="w-1.5 h-1.5 bg-red-400 rounded-full mr-2"></span>
+        并发测试分析
+      </div>
+    </div>
+  </div>
+
+  <div class="flex items-center mb-6">
+    <div class="w-2 h-8 bg-indigo-500 rounded mr-4"></div>
+    <span class="text-2xl font-bold text-indigo-600">6.</span>
+    <span class="text-2xl ml-2">未来展望</span>
+    <div class="ml-8 text-lg text-gray-600">
+      <div class="flex items-center mt-2">
+        <span class="w-1.5 h-1.5 bg-indigo-400 rounded-full mr-2"></span>
+        推荐系统优化
+      </div>
+      <div class="flex items-center mt-2">
+        <span class="w-1.5 h-1.5 bg-indigo-400 rounded-full mr-2"></span>
+        系统性能提升
       </div>
     </div>
   </div>
